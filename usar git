@@ -1,0 +1,11 @@
+Para clonar um repositório: 
+git clone <chave https> (pode especificar a branch)
+
+Para adicionar as mudanças:
+git add 
+git commit - muda pernamentemente no seporitório do git
+git commit -m "<comentários>"
+
+Adicionar arquivos:
+git add <nome do arquivo>
+git add --all - adiciona todos os arquivos que foram editados ao mesmo tempo
